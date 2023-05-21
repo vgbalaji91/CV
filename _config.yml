@@ -32,10 +32,10 @@ youtube_username: globalmtb
 # Additional icon links
 additional_links:
 - title: LinkedIn
-  icon: "fa-brands fa-google"
+  icon: fas fa-google
   url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 - title: linked-in
-  icon: fa-solid fa-book-open-cover
+  icon: fas fa-book-open-cover
   url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
