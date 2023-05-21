@@ -12,7 +12,7 @@ email: vgbalaji91@gmail.com
 website: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: VGBalaji2
@@ -32,7 +32,7 @@ youtube_username: globalmtb
 # Additional icon links
 additional_links:
 - title: LinkedIn
-  icon: fas fa-google
+  icon: fa-solid fa-google
   url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 - title: linked-in
   icon: fas fa-book-open-cover
@@ -103,10 +103,10 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
+  - title: List of Publications
+    layout: list
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      My publications are listed below:
       - Rock climbing
       - Gaming
       - Knitting
