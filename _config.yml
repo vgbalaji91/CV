@@ -31,8 +31,8 @@ youtube_username: ssuaswgamer
 
 # Additional icon links
 additional_links:
-- title: LinkedIn
-  icon: fa-newspaper
+- title: Google Scholar
+  icon: fa-google
   url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -62,7 +62,7 @@ content:
         # link_text: Chitosan with bioactive pendant groups: Synthesis, characterization and antimicrobial studies
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-book
+            icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
