@@ -90,7 +90,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Pondicherry University
+       - title: Pondicherry University
         caption: 2016 - 2023
         sub_title: Ph.D. Chemistry
         
