@@ -32,7 +32,7 @@ youtube_username: globalmtb
 # Additional icon links
 additional_links:
 - title: LinkedIn
-  icon: "fa-brands fa-linkedin"
+  icon: fa-brands fa-google
   url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 - title: linked-in
   icon: fa-solid fa-book-open-cover
