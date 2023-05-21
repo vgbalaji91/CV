@@ -48,16 +48,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Researcher with a strong experience in organic synthesis of small drug-like molecules, antimicrobial biopolymer (polysaccharide) films, polymer characterizations, data analysis, and computational studies. Enjoys learning new skills, techniques and problem-solving. Highly motivated, creative, result-oriented team player with exceptional communication skills. Diligent, capable of meeting deadlines for multiple tasks, ensuring successful completion of project goals.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Antimicrobial Biopolymers</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Doctoral research
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
