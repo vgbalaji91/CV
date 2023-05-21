@@ -42,7 +42,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+ google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Researcher with a strong experience in organic synthesis of small drug-like molecules, antimicrobial biopolymer (polysaccharide) films, polymer characterizations, data analysis, and computational studies. Enjoys learning new skills, techniques and problem-solving. Highly motivated, creative, result-oriented team player with exceptional communication skills. Diligent, capable of meeting deadlines for multiple tasks, ensuring successful completion of project goals.
 
-  I am most skilled in: <mark>Antimicrobial Biopolymers</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Antimicrobial Biopolymers</mark>,<mark>Organic modification of biopolymers</mark>,<mark>Organic Chemistry</mark>,<mark>Drug-design</mark>,<mark>Chitosan chemistry</mark>,I also have decent experience with <mark>Synthetic polymers</mark>,<mark>Molecular docking</mark> as well as <mark>Graphic design</mark> for publication imagery.
 
 content:
   - title: Projects # Title for the section
