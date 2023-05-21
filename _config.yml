@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Balaji Gowrivel Vijayakumar
-title: Ph.D. Chemistry
+name: Balaji Gowrivel Vijayakumar (Ph.D.)
+title: Curriculum Vitae
 email: vgbalaji91@gmail.com
-website: vgbalaji91.github.io
+website: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -22,7 +22,7 @@ github_username:  vgbalaji91
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: in/dr-balaji-gowrivel-vijayakumar-51a681198
+#linkedin_username: in/dr-balaji-gowrivel-vijayakumar-51a681198
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -31,9 +31,12 @@ youtube_username: globalmtb
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: LinkedIn
+  icon: fa-brands fa-linkedin
+  url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
+- title: linked-in
+  icon: fa-solid fa-book-open-cover
+  url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
