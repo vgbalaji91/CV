@@ -118,7 +118,7 @@ content:
  
   - title: List of Publications
     layout: text
-     content: | # this will include new lines to allow paragraphs
+    content: |
       - A complete list of my publications is below:
       - 1. Balaji Gowrivel Vijayakumar, Deepthi Ramesh, K. Santhosh Manikandan, Mary Theresa, Aiswarya Sethumadhavan, V. Brindha Priyadarisini, E. K. Radhakrishnan, Maheswaran Mani, and Tharanikkarasu Kannan. Chitosan with pendant (E)-5-((4-acetylphenyl)diazenyl)-6-aminouracil groups as synergetic antimicrobial agents. J. Mater. Chem. B, 2022, 10, 4048-4058 https://doi.org/10.1039/D2TB00240J. (Impact factor: 7.57)
       - 2. Balaji Gowrivel Vijayakumar, Deepthi Ramesh, Sumeeta Kumari, Akashpratim  P. Anil Kumar, K. Tharanikkarasu, Chitosan with pendant isatin derivative as antifungal agents (Under review)
