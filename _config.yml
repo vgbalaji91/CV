@@ -32,7 +32,7 @@ orcid_username: 0000-0003-0126-9821
 # Additional icon links
 additional_links:
 - title: google-scholar
-  icon: fas fa-google
+  icon: fas fa-globe
   url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
 #- title: another link
 #  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -54,7 +54,41 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Researcher with a strong experience in organic synthesis of small drug-like molecules, antimicrobial biopolymer (polysaccharide) films, polymer characterizations, data analysis, and computational studies. Enjoys learning new skills, techniques and problem-solving. Highly motivated, creative, result-oriented team player with exceptional communication skills. Diligent, capable of meeting deadlines for multiple tasks, ensuring successful completion of project goals.
 
-  I am most skilled in: <mark>Antimicrobial Biopolymers</mark>, <mark>Organic modification of biopolymers</mark>, <mark>Organic Chemistry</mark>, <mark>Drug-design</mark>, <mark>Chitosan chemistry</mark>.I also have decent experience with <mark>Synthetic polymers</mark>, <mark>Molecular docking</mark> as well as <mark>Graphic design</mark> for publication imagery.
+  I am most skilled in: <mark>Antimicrobial Biopolymers</mark>, <mark>Organic modification of biopolymers</mark>, <mark>Organic Chemistry</mark>, <mark>Drug-design</mark>, <mark>Chitosan chemistry</mark>. I also have decent experience with <mark>Synthetic polymers</mark>, <mark>Molecular docking</mark> as well as <mark>Graphic design</mark> for publication imagery.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Pondicherry University
+        link: https://www.pondiuni.edu.in/
+        # link_text: PondiUni
+        sub_title: Ph.D. Scholar (Full-time)
+        caption: September 2016 - May 2023
+                description: | During my time in pondicherry University I worked in the Synthetic polymers and mediciinal chemistry laboratory of <mark>Prof. K. Tharanikkarasu</mark>. Here I developed novel antimicrobial biopolymers. Specifically pendant group modificiation of chitosan via novel drug-design based molecules and tested them for antimicrobial activity.My work resulted in safe antimicrobial materials that were equal to or better than the commercially available antibiotics.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Pondicherry University
+        caption: 2010 - 2013
+        sub_title: Ph.D. Chemistry
+                description: | # this will include new lines to allow paragraphs
+          During my time here I explored synthetic
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+        title: University of Hyderabad
+        caption: 2009 - 2014
+        sub_title: Integrated Master of Science(IMSc) Chemistry
+        quote: >
+          A leading university in the field of chemistry. One of the best in Asia.
+        description: | # this will include new lines to allow paragraphs
+        
+          This was a 5 year program straight of highschool which was essential a B.Sc.+ M.Sc. combined. 
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 content:
   - title: Projects # Title for the section
@@ -72,37 +106,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-         Took the road less travelled: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>Molecular docking</mark> and <mark>Protein-ligand docking</mark> during the pandemic lockdowns. It grew quickly into a fully fledged publication. I have learned many skills through this and been I'm very proud of having this in my portfolio. This work has since been cited over a 100 times and is one of the most cited publications of the past 3 years in the Eur. J. Pharm.
+         Took the road less travelled:
+|         I started this project as a way of learning <mark>Molecular docking</mark> and <mark>Protein-ligand docking</mark> during the pandemic lockdowns. It grew quickly into a fully fledged publication. I have learned many skills through this and been I'm very proud of having this in my portfolio. This work has since been cited over a 100 times and is one of the most cited publications of the past 3 years in the Eur. J. Pharm.
  
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Pondicherry University
-        link: https://www.pondiuni.edu.in/
-        # link_text: PondiUni
-        sub_title: Ph.D. Scholar (Full-time)
-        caption: September 2016 - May 2023
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
