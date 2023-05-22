@@ -62,12 +62,12 @@ content:
     content:
       - layout: top-middle
         title: Drug-repurposing for Covid-19
-        link: sciencedirect.com/science/article/pii/S0014299920305409
+        #link: sciencedirect.com/science/article/pii/S0014299920305409
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
+        #additional_links:
+          - title:  In silico pharmacokinetic and molecular docking studies of natural flavonoids and synthetic indole chalcones against essential proteins of SARS-CoV-2.
             icon: fab fa-globe
-            url: github.com/sproogen/modern-resume-theme
+            url: sciencedirect.com/science/article/pii/S0014299920305409
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
