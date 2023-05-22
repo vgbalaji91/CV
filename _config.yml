@@ -65,7 +65,8 @@ content:
         # link_text: PondiUni
         sub_title: Ph.D. Scholar (Full-time)
         caption: September 2016 - May 2023
-                description: | During my time in pondicherry University I worked in the Synthetic polymers and mediciinal chemistry laboratory of <mark>Prof. K. Tharanikkarasu</mark>. Here I developed novel antimicrobial biopolymers. Specifically pendant group modificiation of <mark>chitosan</mark> via novel drug-design based molecules and tested them for antimicrobial activity. My work resulted in safe antimicrobial materials that were equal to or better than the commercially available antibiotics. Additional responsibilities included guidance of 7 Masters students, teaching <mark>organic chemistry</mark> <mark>wet-lab techniques</mark> and their capstone projects including disserations.
+                description: | 
+                 During my time in pondicherry University I worked in the Synthetic polymers and mediciinal chemistry laboratory of <mark>Prof. K. Tharanikkarasu</mark>. Here I developed novel antimicrobial biopolymers. Specifically pendant group modificiation of <mark>chitosan</mark> via novel drug-design based molecules and tested them for antimicrobial activity. My work resulted in safe antimicrobial materials that were equal to or better than the commercially available antibiotics. Additional responsibilities included guidance of 7 Masters students, teaching <mark>organic chemistry</mark> <mark>wet-lab techniques</mark> and their capstone projects including disserations.
     content:
       - layout: left
         title: University of Hyderabad
@@ -73,21 +74,22 @@ content:
         # link_text: PondiUni
         sub_title: Ph.D. Scholar (Full-time)
         caption: September 2016 - May 2023
-                description: | During my time in Hyderbad I studied the courses covering both B.Sc. and M.Sc in chemistry. The first 3 years were covered all Physics, Biology and computer science as well. The final two years were focused singularly on all aspects of chemistry. THe last 6 months of the program included a capstone project at laboratory of <mark>Prof. Tushar Jana</mark>. Here I took part in the Synthesis and characterization of Organically-modified clay-composities of emulsion-cast polyurethanes</mark>.
+                description: | 
+                 During my time in Hyderbad I studied the courses covering both B.Sc. and M.Sc in chemistry. The first 3 years were covered all Physics, Biology and computer science as well. The final two years were focused singularly on all aspects of chemistry. THe last 6 months of the program included a capstone project at laboratory of <mark>Prof. Tushar Jana</mark>. Here I took part in the Synthesis and characterization of Organically-modified clay-composities of emulsion-cast polyurethanes</mark>.
                 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Pondicherry University
-        caption: 2010 - 2013
+        caption: Sept 2016 - May 2023
         sub_title: Ph.D. Chemistry
                 description: | # this will include new lines to allow paragraphs
-          During my time here I studied both synthetic polymers as well as Biopolymers. But my primary focus was on the use small molecules to modify polysaccharides such as chitosan to enhance their antimicrobial activity. I also took part in collaborative research with medicinal chemists within my lab to explore anti-infectives via computational methods. add
+                 During my time here I studied both synthetic polymers as well as Biopolymers. But my primary focus was on the use small molecules to modify polysaccharides such as chitosan to enhance their antimicrobial activity. I also took part in collaborative research with medicinal chemists within my lab to explore anti-infectives via computational methods. add
          
       - layout: left
         title: University of Hyderabad
-        caption: 2009 - 2014
+       # caption: 2009 - 2014
         sub_title: Integrated Master of Science(I.M.Sc.) Chemistry
         quote: >
           A leading university in the field of chemistry. One of the best in Asia.
