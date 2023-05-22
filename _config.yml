@@ -21,19 +21,19 @@ github_username:  vgbalaji91
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
- linkedin_username: dr balaji gowrivel vijayakumar
+# instagram_username: jameswgrant
+linkedin_username: dr balaji gowrivel vijayakumar
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: ssuaswgamer
 # googleplus_username: +jekyll
- orcid_username: 0000-0003-0126-9821
+orcid_username: 0000-0003-0126-9821
 
 # Additional icon links
 additional_links:
-- title: Google Scholar
-  icon: fa-google
-  url: https://scholar.google.com/citations?user=N9sbYr8AAAAJ&hl=en&authuser=1
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -42,7 +42,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
- google_analytics: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -57,9 +57,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Doctoral research
-        #link: github.com/sproogen
-        # link_text: Chitosan with bioactive pendant groups: Synthesis, characterization and antimicrobial studies
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
@@ -76,11 +76,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Doctorate
-        # link: boringcompany.com
+        title: The Boring Company
+        link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Chitosan with Bioactive Pendant Groups: Synthesis, Characterization and Antimicrobial Studies
-        caption: September 2016 - May 2023
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -90,215 +90,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-       - title: Pondicherry University
-        caption: 2016 - 2023
-        sub_title: Ph.D. Chemistry
-        
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Authored 8 publications in international peer-reviewed journals and 1 book chapter totaling ~200 citations.
-- Mentored 3 post graduate students in novel research projects.
-- Developed 5 pendant group modified antimicrobial bio-polymers with activity comparable to commercial drugs and 500x better safety index.
-- Developed 5 interdisciplinary and inter-institute collaborations with 8 publications 
-- Conducted molecular docking studies and ADMET predictions to support medicinal drug discovery against multiple disease targets
-- Learned several research scholar exposed to various methods and techniques essential to research in a wet lab.
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: List of Publications
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      My publications are listed below:
-      
-- title: Chitosan with pendant (E)-5-((4-acetylphenyl)diazenyl)-6-aminouracil groups as synergetic antimicrobial agents
-  authors:
-    - Balaji Gowrivel Vijayakumar
-    - Deepthi Ramesh
-    - K. Santhosh Manikandan
-    - Mary Theresa
-    - Aiswarya Sethumadhavan
-    - V. Brindha Priyadarisini
-    - E. K. Radhakrishnan
-    - Maheswaran Mani
-    - Tharanikkarasu Kannan
-  journal: J. Mater. Chem. B
-  year: 2022
-  volume: 10
-  issue: null
-  pages: "4048-4058"
-  doi: "10.1039/D2TB00240J"
-  impact_factor: 7.57
-
-- title: Chitosan with pendant isatin derivative as antifungal agents
-  authors:
-    - Balaji Gowrivel Vijayakumar
-    - Deepthi Ramesh
-    - Sumeeta Kumari
-    - Akashpratim  P. Anil Kumar
-    - K. Tharanikkarasu
-  status: "Under review"
-
-- title: Chitosan with sulphonamide and sulphone derivative as antimicrobial agents
-  authors:
-    - Balaji Gowrivel Vijayakumar
-    - Deepthi Ramesh
-    - Ramkishore Matsa
-    - Manika Verma
-    - Pooja Thapar
-    - H. Prathap Kumar Shetty
-    - Regina Sharmila Dass
-    - K. Tharanikkarasu
-  status: "Under review"
-
-- title: Chitosan with piperazine derivatives as antimicrobial agents
-  authors:
-    - Balaji Gowrivel Vijayakumar
-    - Deepthi Ramesh
-    - Sumeeta Kumari
-    - P. Anil Kumar
-    - K. Tharanikkarasu
-  status: "Under review"
-
-- title: In silico pharmacokinetic and molecular docking studies of natural flavonoids and synthetic indole chalcones against essential proteins of SARS-CoV-2
-  authors:
-    - Balaji Gowrivel Vijayakumar
-    - Deepthi Ramesh
-    - Annu Joji
-    - Jayadharini Jayachandra prakasan
-    - Tharanikkarasu Kannan
-  journal: Eur. J. Pharmacol.
-  year: 2020
-  volume: 886
-  issue: null
-  pages: "173448"
-  doi: "10.1016/j.ejphar.2020.173448"
-  impact_factor: 5.19
-
-- title: Advances in Nucleoside and Nucleotide Analogues in Tackling Human Immunodeficiency Virus and Hepatitis Virus Infections
-  authors:
-    - Balaji Gowrivel Vijayakumar
-    - Deepthi Ramesh
-    - Tharanikkarasu Kannan
-  journal: ChemMedChem
-  year: 2021
-  volume: 16
-  issue: 9
-  pages: "1403-1419"
-  doi: "10.1002/cmdc.202000849"
-  impact_factor: 3.54
-
-- title: Therapeutic potential of uracil and its derivatives in countering pathogenic and physiological disorders
-  authors:
-    - Deepthi Ramesh
-    - Balaji Gowrivel Vijayakumar
-    - Tharanikkarasu Kannan
-  journal: Eur. J. Med. Chem.
-  year: 2020
-  volume: 207
-  issue: null
-  pages: "112801"
-  doi: "10.1016/j.ejmech.2020.112801"
-  impact_factor: 7.0
-
-- title: Indole chalcones: Design, synthesis, in vitro and in silico evaluation against Mycobacterium tuberculosis
-  authors:
-    - Deepthi Ramesh
-    - Annu Joji
-    - Balaji Gowrivel Vijayakumar
-    - Aiswarya Sethumadhavan
-    - Maheswaran Tharanikkarasu Kannan
-  journal: Eur. J. Med. Chem.
-  year: 2020
-  volume: 198
-  issue: null
-  pages: "112358"
-  doi: "10.1016/j.ejmech.2020.112358"
-  impact_factor: 7.0
-
-- title: Therapeutic Targets for Emerging Zika Virus Infection and Vaccines in Clinical Trials
-  authors:
-    - Deepthi Ramesh
-    - Balaji Gowrivel Vijayakumar
-    - Tharanikkarasu Kannan
-  book: Frontiers in Clinical Drug Research-Anti Infectives
-  year: 2021
-  volume: 8
-  chapter: 260
-  doi: "10.2174/9789815039412121080008"
-
-- title: First-in-class pyrido[2,3-d]pyrimidine-2,4(1H,3H)-diones against leishmaniasis and tuberculosis: Rationale, in vitro, ex vivo studies and mechanistic insights
-  authors:
-    - Deepthi Ramesh
-    - Deblina Sarkar
-    - Annu Joji
-    - Monica Singh
-    - Amaresh K. Mohanty
-    - Balaji G. Vijayakumar
-    - Mitali Chatterjee
-    - Dharmarajan Sriram
-    - Suresh K. Muthuvel
-    - Tharanikkarasu Kannan
-  journal: Arch. Pharm.
-  year: 2022
-  volume: 355
-  issue: null
-  e_location_id: "e2100440"
-  doi: "10.1002/ardp.202100440"
-  impact_factor: 4.61
-
-- title: Acetylene containing 2-(2-hydrazinyl)thiazole derivatives: Design, Synthesis, in vitro and in silico evaluation of antimycobacterial activity against Mycobacterium tuberculosis
-  authors:
-    - Maganti Lakshmi Haritha Bharathi
-    - Deepthi Ramesh
-    - Balaji Gowrivel Vijayakumar
-    - Mohd Imran Khan
-    - Arun Kumar Dhayalan
-    - Jayabal
-    - Kamalraja
-    - Tharanikkarasu Kannan
-  journal: RSC Adv.
-  year: 2022
-  volume: 12
-  issue: null
-  pages: "8771-8782"
-  doi: "10.1039/D2RA00928E"
-  impact_factor: 4.0
-- title: Novel bis-pyrimidine derivatives as HIV-1 p24 inhibitors: Pharmacophore-based design, in silico and in vitro studies
-  authors:
-    - Deepthi Ramesh
-    - Amaresh Kumar Mohanty
-    - Anirban De
-    - Balaji Gowrivel Vijayakumar
-    - Aiswarya Sethumadhavan
-    - Suresh Kumar Muthuvel
-    - Maheswaran Mani
-    - Tharanikkarasu Kannan
-  journal: RSC Adv.
-  year: 2022
-  volume: 12
-  issue: null
-  pages: "17466-17480"
-  doi: "10.1039/D2RA02450K"
-  impact_factor: 4.0
-
-- title: Novel Pyrimidine– Imine Hybrids as Antitubercular and Antimicrobial Agents: Insights Into Design, Synthesis, In Vitro, In Silico Studies and Structure Activity Relationships
-  authors:
-    - Deepthi Ramesh
-    - Sumeeta Kumari
-    - Balaji Gowrivel Vijayakumar
-    - D Sriram
-    - P. Anil Kumar
-    - K. Tharanikkarasu
-  status: "Under review"
-
-- title: Azo Linked Uracil Schiff Bases as Novel Antimalarial Agents: Insights into Design rationale, in vitro analysis, in vivo studies and molecular docking
-  authors:
-    - Deepthi Ramesh
-    - Nalini Singh
-    - Balaji Gowrivel Vijayakumar
-    - Viswanathan A Nagaraj
-    - Tharanikkarasu Kannan
-  status: "Under review"
-
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
