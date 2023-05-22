@@ -65,15 +65,15 @@ content:
         # link_text: PondiUni
         sub_title: Ph.D. Scholar (Full-time)
         caption: September 2016 - May 2023
-                description: | 
-                 During my time in pondicherry University I worked in the Synthetic polymers and mediciinal chemistry laboratory of <mark>Prof. K. Tharanikkarasu</mark>. Here I developed novel antimicrobial biopolymers. Specifically pendant group modificiation of <mark>chitosan</mark> via novel drug-design based molecules and tested them for antimicrobial activity. My work resulted in safe antimicrobial materials that were equal to or better than the commercially available antibiotics. Additional responsibilities included guidance of 7 Masters students, teaching <mark>organic chemistry</mark> <mark>wet-lab techniques</mark> and their capstone projects including disserations.
+                description: |
+                    During my time in Pondicherry University I worked in the Synthetic polymers and mediciinal chemistry laboratory of <mark>Prof. K. Tharanikkarasu</mark>. Here I developed novel antimicrobial biopolymers. Specifically pendant group modificiation of <mark>chitosan</mark> via novel drug-design based molecules and tested them for antimicrobial activity. My work resulted in safe antimicrobial materials that were equal to or better than the commercially available antibiotics. Additional responsibilities included guidance of 7 Masters students, teaching <mark>organic chemistry</mark> <mark>wet-lab techniques</mark> and their capstone projects including disserations.
     content:
       - layout: left
         title: University of Hyderabad
         link: https://www.pondiuni.edu.in/
         # link_text: PondiUni
-        sub_title: Ph.D. Scholar (Full-time)
-        caption: September 2016 - May 2023
+        sub_title: M.Sc. Chemistry Disseration
+        #caption: September 2016 - May 2023
                 description: | 
                  During my time in Hyderbad I studied the courses covering both B.Sc. and M.Sc in chemistry. The first 3 years were covered all Physics, Biology and computer science as well. The final two years were focused singularly on all aspects of chemistry. THe last 6 months of the program included a capstone project at laboratory of <mark>Prof. Tushar Jana</mark>. Here I took part in the Synthesis and characterization of Organically-modified clay-composities of emulsion-cast polyurethanes</mark>.
                 
