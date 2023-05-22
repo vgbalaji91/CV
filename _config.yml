@@ -116,6 +116,7 @@ content:
         quote: >
          Took the road less travelled:|      I started this project as a way of learning <mark>Molecular docking</mark> and <mark>Protein-ligand docking</mark> during the pandemic lockdowns. It grew quickly into a fully fledged publication. I have learned many skills through this and been I'm very proud of having this in my portfolio. This work has since been cited over a 100 times and is one of the most cited publications of the past 3 years in the Eur. J. Pharm.
  
+ content:
   - title: List of Publications
         layout: list
         content: | # this will include new lines to allow paragraphs
