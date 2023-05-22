@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   Researcher with a strong experience in organic synthesis of small drug-like molecules, antimicrobial biopolymer (polysaccharide) films, polymer characterizations, data analysis, and computational studies. Enjoys learning new skills, techniques and problem-solving. Highly motivated, creative, result-oriented team player with exceptional communication skills. Diligent, capable of meeting deadlines for multiple tasks, ensuring successful completion of project goals.
 
   I am most skilled in: <mark>Antimicrobial Biopolymers</mark>, <mark>Organic modification of biopolymers</mark>, <mark>Organic Chemistry</mark>, <mark>Drug-design</mark>, <mark>Chitosan chemistry</mark>. I also have decent experience with <mark>Synthetic polymers</mark>, <mark>Molecular docking</mark> as well as <mark>Graphic design</mark> for publication imagery.
-
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -87,17 +87,16 @@ about_content: | # this will include new lines to allow paragraphs
                 description: | # this will include new lines to allow paragraphs
           During my time here I studied both synthetic polymers as well as Biopolymers. But my primary focus was on the use small molecules to modify polysaccharides such as chitosan to enhance their antimicrobial activity. I also took part in collaborative research with medicinal chemists within my lab to explore anti-infectives via computational methods. add
          
-
+      - layout: left
         title: University of Hyderabad
         caption: 2009 - 2014
-        sub_title: Integrated Master of Science(IMSc) Chemistry
+        sub_title: Integrated Master of Science(I.M.Sc.) Chemistry
         quote: >
           A leading university in the field of chemistry. One of the best in Asia.
-        description: | # this will include new lines to allow paragraphs
-        
-          This was a 5 year program straight of highschool which was essential a B.Sc.+ M.Sc. combined. 
+        description: |         
+          This was a 5 year program straight of highschool which was essential a B.Sc.+ M.Sc. combined.<mark>My final dissertation was the Synthesis and characterization of Organically-modified clay-composities of emulsion-cast polyurethanes</mark>.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+         
 
 content:
   - title: Projects # Title for the section
@@ -118,7 +117,7 @@ content:
          Took the road less travelled:|      I started this project as a way of learning <mark>Molecular docking</mark> and <mark>Protein-ligand docking</mark> during the pandemic lockdowns. It grew quickly into a fully fledged publication. I have learned many skills through this and been I'm very proud of having this in my portfolio. This work has since been cited over a 100 times and is one of the most cited publications of the past 3 years in the Eur. J. Pharm.
  
   - title: List of Publications
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       -1. Balaji Gowrivel Vijayakumar, Deepthi Ramesh, K. Santhosh Manikandan, Mary Theresa, Aiswarya Sethumadhavan, V. Brindha Priyadarisini, E. K. Radhakrishnan, Maheswaran Mani, and Tharanikkarasu Kannan. Chitosan with pendant (E)-5-((4-acetylphenyl)diazenyl)-6-aminouracil groups as synergetic antimicrobial agents. J. Mater. Chem. B, 2022, 10, 4048-4058 https://doi.org/10.1039/D2TB00240J. (Impact factor: 7.57)
