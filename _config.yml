@@ -118,8 +118,8 @@ content:
  
 content:
   - title: List of Publications
-     caption: A complete list of publications
-     layout: list
+     #caption: A complete list of publications
+     layout: text
       content: | # this will include new lines to allow paragraphs
        - A complete list of my publications is below:
        - 1. Balaji Gowrivel Vijayakumar, Deepthi Ramesh, K. Santhosh Manikandan, Mary Theresa, Aiswarya Sethumadhavan, V. Brindha Priyadarisini, E. K. Radhakrishnan, Maheswaran Mani, and Tharanikkarasu Kannan. Chitosan with pendant (E)-5-((4-acetylphenyl)diazenyl)-6-aminouracil groups as synergetic antimicrobial agents. J. Mater. Chem. B, 2022, 10, 4048-4058 https://doi.org/10.1039/D2TB00240J. (Impact factor: 7.57)
